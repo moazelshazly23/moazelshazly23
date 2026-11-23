@@ -18,7 +18,7 @@
 - 💼 Freelance developer and designer: digital restaurant menus, POS and management systems, landing pages
 - 🤖 Building embedded and robotics projects at university (ESP8266, car robot)
 - 🌍 Arabic-first (RTL) interfaces, also comfortable building in English
-- 📫 Open to freelance projects: contact me through my GitHub profile
+- 📫 Open to freelance projects, see the contact section below
 
 ## Tech stack
 
@@ -43,6 +43,14 @@
 | Websites | Responsive, fast landing pages and business sites |
 | Apps | Web apps and Android apps (React, Capacitor, Kotlin) |
 
+## Freelance work
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| El Basha Grill menu | Mobile-first Arabic (RTL) digital menu for a grill restaurant: sections, size options, cart and order review, send order to WhatsApp | [Live demo](https://moazelshazly23.github.io/elbasha-menu/) · [Code](https://github.com/moazelshazly23/elbasha-menu) |
+| MADA Coffee & More menu | Digital cafe menu with an owner admin panel that edits the menu data and publishes it through GitHub, no backend | [Live demo](https://moazelshazly23.github.io/mada-menu/) · [Code](https://github.com/moazelshazly23/mada-menu) |
+| El Basha POS | Point-of-sale and restaurant management app for Windows | [Code](https://github.com/moazelshazly23/elbasha-pos) |
+
 ## Featured projects
 
 | Project | What it is | Stack |
@@ -62,6 +70,12 @@
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=moazelshazly23&show_icons=true&hide_border=true&count_private=true" />
   <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazelshazly23&layout=compact&hide_border=true" />
 </p>
+
+## Contact
+
+- 💬 WhatsApp: [+20 155 269 6208](https://wa.me/201552696208)
+- ✉️ Email: [moazmahmoudelshazly@gmail.com](mailto:moazmahmoudelshazly@gmail.com)
+- 🌐 Portfolio: [moazelshazly23.github.io/portfolio](https://moazelshazly23.github.io/portfolio/)
 
 ---
 
